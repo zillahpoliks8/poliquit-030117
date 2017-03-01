@@ -13,3 +13,4 @@
 * $ git push -u poliquit-030117 master
 * $ heroku login
 * $ heroku create poliquit-030117
+* $ git push -u heroku master
